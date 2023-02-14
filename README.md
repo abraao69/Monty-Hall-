@@ -6,7 +6,7 @@ A aplicação possibilita ao usuário selecionar o número de portas e também a
 
 <hr>
 <p align="center">
-<img width="1000px" src="https://github.com/abraao69" />
+<img width="1000px" src="https://github.com/ChristopherHauschild/app-monty-hall-vue.js/raw/master/MH_VUE.gif?raw=true" />
 </p>
 <hr>
 
